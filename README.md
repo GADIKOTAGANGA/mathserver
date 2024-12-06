@@ -96,7 +96,10 @@ Publish the website in the given URL.
     </body>
 </html>
 ```
-# SERVER SIDE PROCESSING:
+
 # HOMEPAGE:
+
+![WhatsApp Image 2024-12-06 at 17 01 50_f5362140](https://github.com/user-attachments/assets/1d6fb607-9332-42bc-a36d-6ddec6ab0e91)
+
 # RESULT:
 The program for performing server side processing is completed successfully.
