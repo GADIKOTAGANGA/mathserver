@@ -83,7 +83,7 @@ Publish the website in the given URL.
     <body background="https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3508.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1729468800&semt=ais_hybrid">
         <div class="box">
         <h1 align="center">Surface Area Of a Cylinder</h1>
-        <h2 align="center">(ETTA SUPRAJA)</h2>
+        <h2 align="center">(GADIKOTA GANGA DEVI)</h2>
         <br><br><br>
         <label><strong>Radius</strong></label><br><br>
         <input type="text" id="RADIUS" placeholder="Radius in units"><br><br>
